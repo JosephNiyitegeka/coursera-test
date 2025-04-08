@@ -1,0 +1,46 @@
+header{
+  background-color: gray;
+}
+  #header-nav{
+    background-color: gray;
+    padding-bottom: 0;
+  }
+.nav-item{
+  text-align: center;
+  border-bottom: 2px solid black;
+  border: 0 2px 0 2px;
+  background-color: darkgray;
+
+
+}
+
+#navbarSupportedContent{
+  margin-left: -1.2em;
+  margin-right: -1.2em;
+
+}
+
+.nav-item a{
+  text-decoration: none;
+  color: black;
+}
+nav{
+padding-bottom: 0;
+}
+
+.maincontent{
+  background-color: gray;
+  padding: 20px;
+  margin: 30px;
+}
+
+ul .navbar-nav{
+  margin-top: 5px;
+}
+.container{
+  height: 100%;
+}
+
+.navbar-toggler{
+  color: white;
+}
